@@ -1,0 +1,4 @@
+"Estacao";"Nome";"Horario_Brasilia";"Horario_Rondonia";"Horario_Acre";"Nivel_Atual";"Var_Nivel_24";"Var_Nivel_7d";"Var_Nivel_14d";"Var_Nivel_21d";"Acum_Chuva_24";"Acum_Chuva_96";"Rio";"Passado";"C_Max";"Ano_Max";"Mediana";"Minima_Dia";"Maxima_Dia";"Percentil";"SPI"
+"87160000";"Nova Palmira";2026-03-07 04:30:00;2026-03-07 03:30:00;2026-03-07 02:30:00;114;5;;-6;;5,6;5,6;"CAÍ";109;;"2024";68;-4;159;"80%-90%";
+"87170000";"Barca Do Caí";2026-03-07 04:30:00;2026-03-07 03:30:00;2026-03-07 02:30:00;174;-4;-22;-19;;2,6;10;"CAÍ";192;;"2024";189;123;619;"30%-40%";
+"87270000";"Passo Montenegro";2026-03-07 04:15:00;2026-03-07 03:15:00;2026-03-07 02:15:00;72;6;-16;-12;-24;0;0;"CAÍ";46;;"2024";86;18;422;"30%-40%";
