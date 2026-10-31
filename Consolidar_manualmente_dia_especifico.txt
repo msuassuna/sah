@@ -1,0 +1,13 @@
+DATA_DIA="2025-11-13"
+
+ULTIMO_COMMIT_ANTES=$(git log --until="${DATA_DIA} 00:00:00" --oneline -1 --format=%H)
+
+git reset --soft $ULTIMO_COMMIT_ANTES
+
+git reset
+
+git add sazonal previsoes smap_gefs smapons tabelas ultimosDados sazonal_vazoes mapas
+
+git commit -m "Consolidacao manual - 2025-11-13"
+
+git push --force-with-lease meu-repositorio main
